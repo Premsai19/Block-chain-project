@@ -1,0 +1,13 @@
+﻿# Core Backend Framework
+Django>=2.2.7,<4.0
+
+# Blockchain & Web3 Integration
+web3>=5.20.0
+eth-account>=0.5.0
+
+# Database Driver
+pymysql>=0.9.3
+
+# Utilities
+cryptography>=3.4.0
+requests>=2.25.0
